@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".RegisterActivity">
+
+    <!--<ImageView
+        android:layout_width="500dp"
+        android:layout_height="350dp"
+        android:src="@drawable/image"/>-->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:textColor="@color/green_primary"
+        android:textSize="35dp"
+        android:textStyle="bold"
+        android:letterSpacing="0.03"
+        android:layout_marginTop="50dp"/>
+
+    <EditText
+        android:id="@+id/editTextFirstName"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:hint="First Name"
+        android:textColorHint="@color/green_primary_light"
+        android:textStyle="bold"
+        android:textColor="@color/green_primary"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="20dp"
+        android:background="@drawable/forget"/>
+
+    <EditText
+        android:id="@+id/editTextLastName"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:hint="Last Name"
+        android:textColorHint="@color/green_primary_light"
+        android:textStyle="bold"
+        android:textColor="@color/green_primary"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="20dp"
+        android:background="@drawable/forget"/>
+
+    <EditText
+        android:id="@+id/editTextEmail"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:hint="Email"
+        android:textColorHint="@color/green_primary_light"
+        android:textStyle="bold"
+        android:textColor="@color/green_primary"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="20dp"
+        android:background="@drawable/forget"/>
+
+    <EditText
+        android:id="@+id/editTextPhoneNumber"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:hint="Phone Number"
+        android:textColorHint="@color/green_primary_light"
+        android:textStyle="bold"
+        android:textColor="@color/green_primary"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="20dp"
+        android:background="@drawable/forget"/>
+
+    <EditText
+        android:id="@+id/editTextCnic"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:hint="Govt. ID"
+        android:textColorHint="@color/green_primary_light"
+        android:textStyle="bold"
+        android:textColor="@color/green_primary"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="20dp"
+        android:background="@drawable/forget"/>
+
+
+    <EditText
+        android:id="@+id/editTextPassword"
+        android:inputType="textPassword"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:hint="Password"
+        android:textColorHint="@color/green_primary_light"
+        android:textStyle="bold"
+        android:textColor="@color/green_primary"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="20dp"
+        android:background="@drawable/forget"/>
+
+    <EditText
+        android:id="@+id/editTextConfirmPassword"
+        android:inputType="textPassword"
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:hint="Confirm Password"
+        android:textColorHint="@color/green_primary_light"
+        android:textStyle="bold"
+        android:textColor="@color/green_primary"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="20dp"
+        android:background="@drawable/forget"/>
+
+
+    <Button
+        android:id="@+id/buttonRegister"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:background="@drawable/button"
+        android:text="Register"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:layout_marginTop="20dp"
+        />
+
+    <TextView
+        android:id="@+id/textViewSignIn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Already have an account? Sign In"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:textColor="@color/green_primary"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        />
+
+
+
+</LinearLayout>

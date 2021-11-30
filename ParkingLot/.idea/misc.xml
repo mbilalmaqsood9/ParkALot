@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot (1)/ParkingLot/ParkingLot/ParkingLot/app/src/main/res/drawable/master_bg.xml" value="0.2203125" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot (1)/ParkingLot/ParkingLot/ParkingLot/app/src/main/res/layout/activity_login.xml" value="0.19293478260869565" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot (1)/ParkingLot/ParkingLot/ParkingLot/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot (1)/ParkingLot/ParkingLot/ParkingLot/app/src/main/res/layout/activity_master.xml" value="0.1" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot (1)/ParkingLot/ParkingLot/ParkingLot/app/src/main/res/layout/activity_register.xml" value="0.19293478260869565" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot (1)/ParkingLot/ParkingLot/ParkingLot/app/src/main/res/layout/activity_reset_password.xml" value="0.19293478260869565" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot (1)/ParkingLot/ParkingLot/ParkingLot/app/src/main/res/layout/activity_scan.xml" value="0.19293478260869565" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot (1)/ParkingLot/ParkingLot/ParkingLot/app/src/main/res/layout/fragment_add_vehicle.xml" value="0.19293478260869565" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot (1)/ParkingLot/ParkingLot/ParkingLot/app/src/main/res/layout/fragment_current_parking.xml" value="0.19293478260869565" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot (1)/ParkingLot/ParkingLot/ParkingLot/app/src/main/res/layout/fragment_home.xml" value="0.19293478260869565" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot (1)/ParkingLot/ParkingLot/ParkingLot/app/src/main/res/layout/fragment_profile.xml" value="0.19293478260869565" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot (1)/ParkingLot/ParkingLot/ParkingLot/app/src/main/res/layout/fragment_scan_now.xml" value="0.19293478260869565" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot (1)/ParkingLot/ParkingLot/ParkingLot/app/src/main/res/layout/fragment_search_parking_lot.xml" value="0.19293478260869565" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot (1)/ParkingLot/ParkingLot/ParkingLot/app/src/main/res/layout/fragment_settings.xml" value="0.19293478260869565" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot (1)/ParkingLot/ParkingLot/ParkingLot/app/src/main/res/layout/fragment_support.xml" value="0.19293478260869565" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot/ParkingLot/app/src/main/res/drawable/master_bg.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot/ParkingLot/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot/ParkingLot/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot/ParkingLot/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot/ParkingLot/app/src/main/res/layout/activity_scan.xml" value="0.1" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot/ParkingLot/app/src/main/res/layout/activity_scanner.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot/ParkingLot/app/src/main/res/layout/activity_welcome.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot/ParkingLot/app/src/main/res/layout/fragment_current_parking.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot/ParkingLot/app/src/main/res/layout/fragment_home.xml" value="0.16" />
+        <entry key="..\:/Users/Conference-PC/Downloads/ParkingLot/ParkingLot/app/src/main/res/layout/fragment_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22407407407407406" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/drawable/button.xml" value="0.2890625" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/drawable/button_design.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/drawable/circlebackground.xml" value="0.9107142857142857" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/drawable/forget.xml" value="0.22407407407407406" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/drawable/ic_baseline_account_balance_wallet_24.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22407407407407406" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/drawable/ic_outline_account_balance_wallet_24.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/drawable/ic_outline_add_circle_outline_24.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/drawable/ic_outline_menu_24.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/drawable/ic_outline_person_outline_24.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/drawable/ic_outline_support_agent_24.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/drawable/master_bg.xml" value="0.23055555555555557" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/layout/activity_dashboard.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/layout/activity_main.xml" value="0.13272543059777103" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/layout/activity_master.xml" value="0.18" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/layout/activity_profile.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/layout/activity_reset_password.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/layout/activity_welcome.xml" value="0.25" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/layout/fragment_home.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Muhammad Bilal/AndroidStudioProjects/ParkingLot/app/src/main/res/layout/fragment_profile.xml" value="0.26811594202898553" />
+        <entry key="..\:/Users/Muhammad Bilal/Downloads/ParkingLot/ParkingLot/ParkingLot/app/src/main/res/layout/activity_scanner.xml" value="0.12395833333333334" />
+        <entry key="..\:/Users/Muhammad Bilal/Downloads/ParkingLot/ParkingLot/ParkingLot/app/src/main/res/layout/fragment_home.xml" value="0.16" />
+        <entry key="..\:/Users/Muhammad Bilal/Downloads/ParkingLot/ParkingLot/ParkingLot/app/src/main/res/layout/fragment_profile.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Muhammad Bilal/Downloads/ParkingLot/ParkingLot/ParkingLot/app/src/main/res/layout/fragment_support.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

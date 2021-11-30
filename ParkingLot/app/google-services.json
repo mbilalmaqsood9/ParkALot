@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183780913493",
+    "project_id": "parkinglot-50d9e",
+    "storage_bucket": "parkinglot-50d9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183780913493:android:596720eead792ab7a8ffdc",
+        "android_client_info": {
+          "package_name": "com.example.parkinglot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183780913493-2b3rc2oopvo0slumj8qu159m307p3bpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3wLFRfygybiQpBZ31YTyAvO_hXSiBbi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183780913493-2b3rc2oopvo0slumj8qu159m307p3bpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

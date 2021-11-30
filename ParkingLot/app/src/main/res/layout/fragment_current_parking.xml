@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CurrentParkingFragment">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Registration Number :"
+        android:textSize="18sp"
+        android:layout_marginHorizontal="10dp"
+        android:textColor="@color/green_primary_dark"
+        android:layout_marginTop="20dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewRegistrationNumber"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        android:layout_marginHorizontal="30dp"
+        android:textColor="@color/green_primary"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Parking Lot Name :"
+        android:textSize="18sp"
+        android:layout_marginHorizontal="10dp"
+        android:textColor="@color/green_primary_dark"
+        android:layout_marginTop="20dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewParkingLotName"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        android:layout_marginHorizontal="30dp"
+        android:textColor="@color/green_primary"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Start Time :"
+        android:textSize="18sp"
+        android:layout_marginHorizontal="10dp"
+        android:textColor="@color/green_primary_dark"
+        android:layout_marginTop="20dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewStartTime"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        android:layout_marginHorizontal="30dp"
+        android:textColor="@color/green_primary"
+        android:layout_marginTop="5dp"/>
+
+
+    <Button
+        android:id="@+id/buttonEndParking"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:background="@drawable/button"
+        android:text="End Parking"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginTop="60dp"
+        />
+
+
+</LinearLayout>
